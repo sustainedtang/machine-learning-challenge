@@ -2,7 +2,7 @@
 
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](C:\Users\Tang\ucd-sac-virt-data-pt-03-2021-u-c\02-Homework\21-Machine-Learning\Instructions\Images\exoplanets.jpg)
+![exoplanets.jpg](https://github.com/sustainedtang/machine-learning-challenge/blob/main/Images/exoplanets.jpg?raw=true)
 
 ### Before You Begin
 
